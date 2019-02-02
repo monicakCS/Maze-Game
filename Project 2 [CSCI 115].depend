@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1526019970 source:c:\users\khai\desktop\project 2 [csci 115]\main.cpp
+	"Game.h"
+	<SDL.h>
+	<iostream>
+
+1526021582 c:\users\khai\desktop\project 2 [csci 115]\include\game.h
+	"Map.h"
+	<SDL.h>
+	<stdio.h>
+
+1526021581 c:\users\khai\desktop\project 2 [csci 115]\include\map.h
+	"Player.h"
+	"Enemy.h"
+	<SDL.h>
+	<utility>
+	<fstream>
+	<vector>
+	<iostream>
+	<queue>
+	<stack>
+
+1526022030 c:\users\khai\desktop\project 2 [csci 115]\include\player.h
+	<SDL.h>
+
+1526021582 source:c:\users\khai\desktop\project 2 [csci 115]\src\game.cpp
+	"Game.h"
+
+1525928850 source:c:\users\khai\desktop\project 2 [csci 115]\src\map.cpp
+	"Map.h"
+
+1525928428 source:c:\users\khai\desktop\project 2 [csci 115]\src\player.cpp
+	"Player.h"
+
+1524728802 source:c:\users\khai\desktop\project 2 [csci 115]\src\wall.cpp
+	"Wall.h"
+
+1524728802 c:\users\khai\desktop\project 2 [csci 115]\include\wall.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<string>
+	<fstream>
+
+1519936451 c:\users\khai\desktop\sdl2_image-2.0.3\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1524781119 source:c:\users\csmlab\desktop\project 2 [csci 115]\main.cpp
+	"Game.h"
+	"Player.h"
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+
+1524782327 c:\users\csmlab\desktop\project 2 [csci 115]\include\game.h
+	"Map.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+
+1524783070 c:\users\csmlab\desktop\project 2 [csci 115]\include\map.h
+	"Player.h"
+	<SDL.h>
+	<SDL_image.h>
+	<fstream>
+	<vector>
+
+1524782327 c:\users\csmlab\desktop\project 2 [csci 115]\include\player.h
+	<SDL.h>
+	<SDL_image.h>
+
+1524783054 source:c:\users\csmlab\desktop\project 2 [csci 115]\src\game.cpp
+	"Game.h"
+
+1524782455 source:c:\users\csmlab\desktop\project 2 [csci 115]\src\map.cpp
+	"Map.h"
+
+1524782350 source:c:\users\csmlab\desktop\project 2 [csci 115]\src\player.cpp
+	"Player.h"
+
+1524698759 source:c:\users\csmlab\desktop\project 2 [csci 115]\src\wall.cpp
+	"Wall.h"
+
+1524698759 c:\users\csmlab\desktop\project 2 [csci 115]\include\wall.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<string>
+	<fstream>
+
+1524790300 source:c:\users\parad\desktop\project 2 [csci 115]\main.cpp
+	"Game.h"
+	"Player.h"
+	<SDL.h>
+	<iostream>
+
+1524790296 c:\users\parad\desktop\project 2 [csci 115]\include\game.h
+	"Map.h"
+	<SDL.h>
+	<stdio.h>
+
+1524790292 c:\users\parad\desktop\project 2 [csci 115]\include\map.h
+	"Player.h"
+	<SDL.h>
+	<fstream>
+	<vector>
+
+1524790288 c:\users\parad\desktop\project 2 [csci 115]\include\player.h
+	<SDL.h>
+
+1524783056 source:c:\users\parad\desktop\project 2 [csci 115]\src\game.cpp
+	"Game.h"
+
+1524790326 source:c:\users\parad\desktop\project 2 [csci 115]\src\map.cpp
+	"Map.h"
+
+1524790283 source:c:\users\parad\desktop\project 2 [csci 115]\src\player.cpp
+	"Player.h"
+
+1525928428 source:c:\users\khai\desktop\project 2 [csci 115]\src\enemy.cpp
+	"Enemy.h"
+
+1526022030 c:\users\khai\desktop\project 2 [csci 115]\include\enemy.h
+	<SDL.h>
+	<utility>
+	<vector>
+
+1524790302 source:c:\users\lcoelab\desktop\project 2 [csci 115]\main.cpp
+	"Game.h"
+	"Player.h"
+	<SDL.h>
+	<iostream>
+
+1524815082 c:\users\lcoelab\desktop\project 2 [csci 115]\include\game.h
+	"Map.h"
+	<SDL.h>
+	<stdio.h>
+
+1525134721 c:\users\lcoelab\desktop\project 2 [csci 115]\include\map.h
+	"Player.h"
+	"Enemy.h"
+	<SDL.h>
+	<utility>
+	<fstream>
+	<vector>
+	<iostream>
+
+1524877306 c:\users\lcoelab\desktop\project 2 [csci 115]\include\player.h
+	<SDL.h>
+
+1525134739 source:c:\users\lcoelab\desktop\project 2 [csci 115]\src\enemy.cpp
+	"Enemy.h"
+
+1525134721 c:\users\lcoelab\desktop\project 2 [csci 115]\include\enemy.h
+	<SDL.h>
+	<utility>
+	<vector>
+
+1525134721 source:c:\users\lcoelab\desktop\project 2 [csci 115]\src\game.cpp
+	"Game.h"
+
+1525133843 source:c:\users\lcoelab\desktop\project 2 [csci 115]\src\map.cpp
+	"Map.h"
+
+1525130458 source:c:\users\lcoelab\desktop\project 2 [csci 115]\src\player.cpp
+	"Player.h"
+
